@@ -1,0 +1,29 @@
+#nav{
+    background-color:#Ac7EFF;
+    margin:15px;
+    color:#FFFFFF;
+}
+#header{
+     background-color:#EB7EFF;
+     padding:20px;
+     margin:15px;
+     color:#FFFFFF;
+}
+#content{
+    background-color:#563F7F;
+    padding:20px;
+    margin:15px;
+    color:#FFFFFF;
+}
+#footer{
+  background-color:#DDCAFF ;
+  color:black;
+  padding:20px;
+  margin:15px;
+}
+ol{
+  color:#FFFFFF;
+}
+ul{
+  color:#FFFFFF;
+}
